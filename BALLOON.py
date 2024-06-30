@@ -1,4 +1,4 @@
-class BALOON:
+class BALLOON:
     def __init__(self):
         self.A = [
             " ▉▉▉ ",
